@@ -1,4 +1,4 @@
-#Personalizando o Banco de Dados com Índices e Procedures
+# Personalizando o Banco de Dados com Índices e Procedures
 
 A tabela possui três colunas: "id", "nome" e "idade". A coluna "id" é definida como uma chave primária e é auto-incrementada a cada novo registro adicionado. Em seguida, são inseridos dois registros na tabela, cada um com um nome e uma idade correspondentes.
 
